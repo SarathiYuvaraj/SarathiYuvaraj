@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SarathiYuvaraj
 - 👀 I’m interested in work with python & SQL
 - 🌱 I’m currently learning advanced python 
-- 💞️ I’m looking to collaborate on projects which to gain more experiance
+- 💞️ I’m looking to collaborate on projects which to gain more experience
 - 📫 How to reach me -@SarathiYuvaraj
 
 <!---
